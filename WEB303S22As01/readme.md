@@ -9,3 +9,4 @@ Name-Chinar Bawa
 - did include the script.js
 - Code to calculate 13% tax!
 - .toFixed amnd .val method is used to valculate the tax
+- done with the assignment
