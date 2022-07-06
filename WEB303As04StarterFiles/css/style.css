@@ -1,4 +1,38 @@
 body{
+    background-color: antiquewhite;
     margin: 0;
     padding: 0;
 }
+header,footer{
+    background-color: #996633;
+    text-align:center;
+}
+img{
+    width:300px;
+    height: 350px;
+    float: right;
+    margin-left: 10px;
+  
+}
+.tab-panel {
+    width: 100%;
+    height: auto;
+    border: 1px solid black;
+    margin: auto ;
+  }
+#content-wrapper{
+    text-align: center;
+    
+}
+#content-wrapper li{
+    list-style: none;
+}
+.accordion-panel {
+    display: none;
+  }
+  .tab-panel {
+    display: none;
+  }
+  .tab-panel.active {
+    display: block;
+  }
